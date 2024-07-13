@@ -70,7 +70,7 @@ _Linux · AWS · Bash · Shell Scripting · SQL · Jira Products · Kubernetest 
 **System Support Engineer** - _(Oct 2014 - Jan 2018)_ <br>
 **System Support Intern** - _(Nov 2013 - Sep 2014)_
 
-_Linux (Suse, Redhat) · SQL(Oracle 11g, 12c) · Bash · PL/SQLs · Infiniband · ssh · scp · telnet · ftp/sftp ·JIRA · Atlassian Bamboo · Verifix · CA clarity · Workday HCM_
+_Linux (Suse, Redhat) · SQL(Oracle 11g, 12c) · Bash · PL/SQLs · Infiniband · ssh · scp · telnet · ftp/sftp · JIRA · Atlassian Bamboo · Verifix · CA clarity · Workday HCM_
 
 - Diagnose issues in Dev/QA environments and provide assistance to external and internal serviceteams.
 - Investigate, resolve or provide workarounds to system issues in the Linux Operating Systems,Databases, Network and Hardware.
