@@ -49,11 +49,11 @@ _Linux · Kubernetes · Docker · Gitlab · Grafana · Prometheus.io · ActiveMQ
 
 _Linux · AWS · Python · Ansible · REST APIs · JSON · Git · Kubernetes · Docker ·Bigpanda · Wavefront · JIRA Service Desk · Confluence · Scrum Agile_
 
-- Monitoring applications availability and respond to incidents.
+- Monitoring applications availability and responding to incidents.
 - Maintain incident SLAs.
 - Investigate, resolve or provide workarounds to application operational issues.
 - Deploy off-cycle fixes in production.
-- Automate manual tasks to reduce toil as a member of SDLC Agile team.
+- Automate manual tasks to reduce toil as a member of Agile SDLC team.
 - Participate in a shift pattern to achieve 365 days coverage.
 <br><br>
 
@@ -78,17 +78,17 @@ _Linux · AWS · Bash · Shell Scripting · SQL · Kubernetest · Docker · Bigp
 
 _Linux (Suse, Redhat) · SQL(Oracle 11g, 12c) · Bash · PL/SQLs · Infiniband · ssh · scp · telnet · ftp/sftp · Verifix · JIRA · Confluence · Atlassian Bamboo · CA clarity · Workday HCM_
 
-- Diagnose issues in Dev/QA environments and provide assistance to external and internal serviceteams.
-- Investigate, resolve or provide workarounds to system issues in the Linux Operating Systems,Databases, Network and Hardware.
-- Perform upgrades and verification in Applications, Operating Systems, Databases, Network andHardware.
+- Diagnose issues in Dev/QA environments and provide assistance to external and internal service teams.
+- Investigate, resolve or provide workarounds to system issues in the Linux Operating Systems, Databases, Network and Hardware.
+- Perform upgrades and verification in Applications, Operating Systems, Databases, Network and Hardware.
 - Manage dedicated performance testing hardware suite.
-- Perform application performance, fault tolerance & operational (non-functional) regression testing andreporting.
+- Perform application performance, fault tolerance & operational (non-functional) regression testing and reporting.
 - Perform non-functional testing for hardware acceptance and certification.
 - Design and develop test scenarios for application change requests.
 - Automate test suite setup using bash, Perl, PL/SQLs to implement continuous testing process.
 - Implement and support continuous integration process using Atlassian Bamboo.
 - Follow the agile methodology and the scrum approach to deliver committed changes on time.
-- Provide necessary training and guidance for work colleagues, new recruits and prepare trainingmaterials.
+- Provide necessary training and guidance for work colleagues, new recruits and prepare training materials.
 <br><br>
 
 <br>
