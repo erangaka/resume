@@ -17,15 +17,16 @@ Self-driven Platform and Site Reliability Engineer with 10+ years of experience 
 
 _Linux · Docker · Terraform · Chef.io · Jenkins · Python · Groovy · REST APIs · Bitbucket · Dynatrace · Splunk · PagerDuty · ServiceNow · JIRA · Confluence · Agile_
 
-- Build, deploy, upgrade and manage observability tech stack (Dynatrace, Splunk, Pagerduty).
-- Infrastructure as code (IaC) using Terraform and Docker.
-- Configuration management using Chef.
-- Build CI/CD automated pipelines using Jenkins and Groovy functions.
-- Build automations using Python or Bash.
-- Maintain codebase in Bitbucket (git).
-- Create design documents and runbooks using Confluence or Markdown.
-- Provide 24/7 on-call support.
-<br><br>
+>- Build, deploy, upgrade and manage observability tech stack (Dynatrace, Splunk, Pagerduty).
+>- Infrastructure as code (IaC) using Terraform and Docker.
+>- Configuration management using Chef.
+>- Build CI/CD automated pipelines using Jenkins and Groovy functions.
+>- Build automations using Python or Bash.
+>- Maintain codebase in Bitbucket (git).
+>- Create design documents and runbooks using Confluence or Markdown.
+>- Provide 24/7 on-call support.
+
+<br>
 
 ### [IntegrationWorks](https://www.linkedin.com/company/integrationworks) - New Zealand
 
