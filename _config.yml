@@ -1,0 +1,10 @@
+title: Resume - Eranga DG
+
+description: Platform and Site Reliability Engineer with 10+ years of experience in Linux based large scale enterprise applications.
+
+show_downloads: true
+
+theme: jekyll-theme-minimal 
+
+plugins:
+  - jemoji
