@@ -98,7 +98,7 @@ _[University College Dublin](https://www.ucd.ie/) - 2014_
 
 ## :star: Certifications
 
-[**HashiCorp Certified: Terraform Associate (003)**](https://www.credly.com/earner/earned/badge/1a58bc85-c15e-4b2f-8193-3e8c3ad8c85f) - HashiCorp <br>
+[**HashiCorp Certified: Terraform Associate (003)**](https://www.credly.com/badges/1a58bc85-c15e-4b2f-8193-3e8c3ad8c85f) - HashiCorp <br>
 _Issued May 2024 - Expires May 2026_
 
 [**F5 NGINX Core**](https://www.credly.com/badges/e369e527-4b06-4b8c-aa04-618857f5e32f) - F5 <br>
