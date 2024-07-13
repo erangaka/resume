@@ -4,7 +4,7 @@
 
 ---
 
-Self-driven Platform and Site Reliability Engineer with 10+ years of experience in Linux based large scale enterprise applications on private & public cloud infrastructure. Specialized in SaaS platforms management, buildautomated solutions, application monitoring, incident management. Constantly looking for opportunities to solveproblems and build reliable platforms.
+Self-driven Platform and Site Reliability Engineer, with 10+ years of experience in Linux based large scale enterprise applications on private & public cloud infrastructure. Specialized in SaaS platforms management, build automated solutions, application monitoring, incident management. Constantly looking for opportunities to solve problems and build reliable platforms.
 
 ---
 <br>
