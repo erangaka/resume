@@ -5,7 +5,7 @@ Self-driven Platform and Site Reliability Engineer with 10+ years of experience 
 
 ## :man_technologist: Experience
 
-[Westpac New Zealand](https://www.linkedin.com/company/westpac-new-zealand-limited) - _Auckland, New Zealand_
+### [Westpac New Zealand](https://www.linkedin.com/company/westpac-new-zealand-limited) - Auckland, New Zealand
 
 **Platform Engineer** - _(Aug 2023 - Present)_
 
@@ -21,7 +21,7 @@ _Linux · Docker · Terraform · Chef.io · Jenkins · Python · Groovy · REST 
 - Provide 24/7 on-call support.
 <br><br>
 
-[IntegrationWorks - The Integration Experts](https://www.linkedin.com/company/integrationworks) - _Auckland, New Zealand_
+### [IntegrationWorks - The Integration Experts](https://www.linkedin.com/company/integrationworks) - Auckland, New Zealand
 
 **Site Reliability Engineer** - _(Oct 2022 - Jul 2023)_
 
@@ -36,7 +36,7 @@ _Linux · Kubernetes · Docker · Gitlab · Grafana · Prometheus.io · ActiveMQ
 - Provide 24/7 on-call support.
 <br><br>
 
-[Workday](https://www.linkedin.com/company/workday) - _Auckland, New Zealand_
+### [Workday](https://www.linkedin.com/company/workday) - Auckland, New Zealand
 
 **Site Reliability Engineer** - _(May 2022 - Oct 2022)_ <br>
 **Sr Associate Site Reliability Engineer** - _(Nov 2021 - May 2022)_
@@ -65,7 +65,7 @@ _Linux · AWS · Bash · Shell Scripting · SQL · Jira Products · Kubernetest 
 - Perform weekly release deployment and deploy off-cycle fixes.
 <br><br>
 
-[LSEG Technology](https://www.linkedin.com/company/lsegtechnology/) - _Colombo, Sri Lanka_
+### [LSEG Technology](https://www.linkedin.com/company/lsegtechnology/) - Colombo, Sri Lanka
 
 **System Support Engineer** - _(Oct 2014 - Jan 2018)_ <br>
 **System Support Intern** - _(Nov 2013 - Sep 2014)_
