@@ -91,6 +91,7 @@ _Linux (Suse, Redhat) · SQL(Oracle 11g, 12c) · Bash · PL/SQLs · Infiniband �
 - Provide necessary training and guidance for work colleagues, new recruits and prepare trainingmaterials.
 <br><br>
 
+<br>
 
 ## :mortar_board: Education
 
@@ -98,6 +99,7 @@ _Linux (Suse, Redhat) · SQL(Oracle 11g, 12c) · Bash · PL/SQLs · Infiniband �
 _[University College Dublin](https://www.ucd.ie/) - 2014_
 <br><br>
 
+<br>
 
 ## :star: Certifications
 
