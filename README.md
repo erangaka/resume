@@ -1,6 +1,6 @@
 # Eranga DG
-eranga.ka@outlook.com <br>
-[linkedin.com/in/erangaka](https://www.linkedin.com/in/erangaka/)
+
+![](/logo/linkedin.png) [linkedin.com/in/erangaka](https://www.linkedin.com/in/erangaka/)
 
 Self-driven Platform and Site Reliability Engineer with 10+ years of experience in Linux based large scaleenterprise applications on private & public cloud infrastructure. Specialized in SaaS platforms management, buildautomated solutions, application monitoring, incident management. Constantly looking for opportunities to solveproblems and build reliable platforms.
 <br><br>
