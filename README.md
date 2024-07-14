@@ -8,7 +8,7 @@ Self-driven Platform and Site Reliability Engineer, with 10+ years of experience
 ---
 <br>
 
-## :man_technologist: Experience
+## 🧑‍💻 Experience
 
 ### [Westpac](https://www.linkedin.com/company/westpac-new-zealand-limited) - New Zealand
 
@@ -92,7 +92,7 @@ _Linux (Suse, Redhat) · SQL(Oracle 11g, 12c) · Bash · PL/SQLs · Infiniband �
 
 <br>
 
-## :mortar_board: Education
+## 🎓 Education
 
 **Bachelor of Science - BS, Management Information Systems** <br>
 _[University College Dublin](https://www.ucd.ie/) - 2014_
@@ -100,7 +100,7 @@ _[University College Dublin](https://www.ucd.ie/) - 2014_
 
 <br>
 
-## :star: Certifications
+## ⭐️ Certifications
 
 [**HashiCorp Certified: Terraform Associate (003)**](https://www.credly.com/badges/1a58bc85-c15e-4b2f-8193-3e8c3ad8c85f) - HashiCorp <br>
 _Issued May 2024 - Expires May 2026_
