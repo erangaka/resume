@@ -1,5 +1,3 @@
-# Eranga DG
-
 ![](/logo/linkedin.png) [linkedin.com/in/erangaka](https://www.linkedin.com/in/erangaka/)
 
 ---
