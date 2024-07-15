@@ -2,12 +2,14 @@
 
 [linkedin.com/in/erangaka](https://www.linkedin.com/in/erangaka/)
 
+
 ---
 
 Self-driven Platform and Site Reliability Engineer, with 10+ years of experience in Linux based large scale enterprise applications on private & public cloud infrastructure. Specialized in SaaS platforms management, build automated solutions, application monitoring, incident management. Constantly looking for opportunities to solve problems and build reliable platforms.
 
 ---
 <br>
+
 
 ## Experience
 
@@ -93,7 +95,6 @@ _Linux (Suse, Redhat) · SQL(Oracle 11g, 12c) · Bash · PL/SQLs · Infiniband �
 
 <br>
 
-
 ## Education
 
 **Bachelor of Science - BS, Management Information Systems** <br>
@@ -101,6 +102,7 @@ _[University College Dublin](https://www.ucd.ie/) - 2014_
 <br><br>
 
 <br>
+
 
 ## Certifications
 
